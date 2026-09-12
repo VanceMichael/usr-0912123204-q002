@@ -1,0 +1,5 @@
+{
+  "service": "统战培训反馈归集后端",
+  "contractVersion": "2026-09",
+  "healthPath": "/health"
+}
